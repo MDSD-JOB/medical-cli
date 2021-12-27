@@ -1,0 +1,27 @@
+{
+  "name": "medical-cli",
+  "version": "1.0.0",
+  "description": "麦迪斯顿webview项目类模板",
+  "main": "index.js",
+  "bin": {
+    "mdsd": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "beer-on-ice",
+    "email": "li997477295@outlook.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.0"
+  }
+}
