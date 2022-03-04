@@ -1,7 +1,7 @@
 {
   "name": "medical-cli",
-  "version": "1.0.0",
-  "description": "麦迪斯顿webview项目类模板",
+  "version": "1.0.5",
+  "description": "麦迪斯顿项目模板",
   "main": "index.js",
   "bin": {
     "mdsd": "./bin/cli.js"
