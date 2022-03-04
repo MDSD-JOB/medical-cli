@@ -1,6 +1,6 @@
 {
   "name": "medical-cli",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "麦迪斯顿项目模板",
   "main": "index.js",
   "bin": {
